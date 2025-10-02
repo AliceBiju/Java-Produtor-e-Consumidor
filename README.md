@@ -55,7 +55,7 @@ java Main
 
 ## Saída esperada
 
-- Ao executar o programa, você verá algo semelhante a isso no console, com valores sendo adicionados e consumidos pela T1 e T2:
+Ao executar o programa, você verá algo semelhante a isso no console, com valores sendo adicionados e consumidos pela T1 e T2:
 
 - T1: Valor 1 adicionado.
 - T2: Valor 1 consumido.
